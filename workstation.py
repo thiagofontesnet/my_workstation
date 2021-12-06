@@ -7,7 +7,7 @@ os.system('apt install -y qbittorrent')
 #   Ferramentas de programação
 os.system('apt install -y git')
 
-#   machines
+#   machines and docker
 os.system('apt install -y virtualbox-qt')
 os.system('apt install -y vagrant')
 os.system('apt install -y ansible')
